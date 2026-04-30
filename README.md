@@ -28,4 +28,4 @@ https://helperhat.com/how-to-install/google-tag-manager
 
 ## Support
 
-For help, contact contact@hashchats.com.
+For help, contact contact@helperhat.com.
