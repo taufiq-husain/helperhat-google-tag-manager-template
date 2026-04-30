@@ -1,5 +1,5 @@
 homepage: "https://helperhat.com"
 documentation: "https://helperhat.com/how-to-install/google-tag-manager"
 versions:
-  - sha: 8e87ff83bddf5f4ac1bc229f8c04c5959fe4f84e
+  - sha: ed4665cd1a4ef0677bf6d127e757df15ac19b11f
     changeNotes: Initial release.
